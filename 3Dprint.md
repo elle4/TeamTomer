@@ -11,6 +11,17 @@ Helpful for teaching collection.
 
 Using digital technology for materiality. 
 
+Identify a collection at WSU or UI : Chinese women in Idaho or ceramics 
+Parameters for ethical use. 
+Using Murkutu or Murkutu-esque protocols 
+
+Associate with a lesson plan?
+(Would work in English 101, DTC 101, Historic Artifact Analysis Lab class) 
+
+
+Visual analysis 
+
+
 ### Environment scan
 
 Smithsonian makes 3d info available
