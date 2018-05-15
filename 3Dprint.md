@@ -16,7 +16,7 @@ Using digital technology for materiality.
 Smithsonian makes 3d info available
 Museums are using 3d printing for various reason. 
 
-# Some Examples
+### Some Examples
 1.  Scan the World:  https://www.myminifactory.com/category/scan-the-world
 -downloadable 3d models of famous artwork from museums around the world. 
 -colaborative project 
@@ -30,6 +30,6 @@ Museums are using 3d printing for various reason.
 3.  American Fossils:  https://africanfossils.org/
 - 3d digital collection of fossils with links to download 3d printing file...so pretty much what we were talking about
 - you have to log in to download printing files
-# So maybe this idea is already a thing too??
+### So maybe this idea is already a thing too??
 
 See also https://www.aniwaa.com/3d-printing-for-archeology-and-museology/
