@@ -23,7 +23,7 @@ Create 3D models of UI archive materials and provide information needed for prin
 
 ## Proposed Solution or Template
 
-*There is no one way to address a set of questions, but there is your way! How will you go about solving the problem or engaging with the question?
+*There is no one way to address a set of questions, but there is your way! How will you go about solving the problem or engaging with the question?*
 
 - building a new tool
 - creating a different platform
@@ -33,10 +33,10 @@ Create 3D models of UI archive materials and provide information needed for prin
 
 ## Environmental scan
 
-*Chances are other people have had similar challenges or are tackling similar or related problems or issues. An environmental scan is a detailed look at:
+*Chances are other people have had similar challenges or are tackling similar or related problems or issues. An environmental scan is a detailed look at:*
 - Work-to-date that deals with your topic (i.e.—has a similar focus, set of inquiries or shares similar content)
 - Tools that engage with your problem/solution
-- Similar projects*
+- Similar projects
 
 *Your pitch should engage with at least 3*
 
@@ -44,9 +44,9 @@ Create 3D models of UI archive materials and provide information needed for prin
 
 *All digital scholarship must engage with the question of sustainability.*
 
-*- Who or what institution will host your project? Is there a cost?
+- Who or what institution will host your project? Is there a cost?
 - What tools or infrastructure is needed to maintain your project?
 - What people and communities are need to engage and maintain the project?
 - What might be the needs in five years for people to continue to use, engage with or build on your project?
 - Is the initial scope realistic?
-- Is the data in a transferable, re-usable format?*
+- Is the data in a transferable, re-usable format?
