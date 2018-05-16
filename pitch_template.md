@@ -4,7 +4,7 @@
 
 *This is your elevator speech, or your brief abstract that you will use to hook people in whether they be funders, stakeholders or potential collaborators.*
 
-Create 3D models of UI archive materials and provide information needed for printing via Murkutu site. Will function for a template for future collections. 
+"Digital teaching trunk." Create 3D models of UI archive materials and provide information needed for printing (or 3D viewing, or VR, depending on what the school has) via Murkutu site. Will function for a template for future collections. 
 
 ## Challenge, Problem or Issue
 
@@ -29,9 +29,12 @@ Create 3D models of UI archive materials and provide information needed for prin
 - creating a different platform
 - producing a new set of workflows
 - linking together content in new ways
+- public access requires travel 
 
 ### Our solution: 
 Create a digital archive with 3D printing information. 3D printing information will have Murkutu protocols, so that there is another level of controlled access with the 3D modelling (for example, a photo that is public access could potentially link to a 3D model file that is community-only). 
+
+AACC's "Chinese Women in Idaho" teaching collection. Digitize and create 3D models of around 5 objects. 
 
 ## Environmental scan
 
@@ -49,6 +52,10 @@ Good practices? Smithsonian incorporates 3D model information into ebook about t
 Museum in a box. Rent a box with 3D scans and materials to do a VR scan to recontextualize. Raspberry pi. 
 Not best practice? Met puts 3D model info on thingverse -- only 1 follower, 1 create. 
 
+Teaching trunks. Books, DVDs, lesson plans. Used by K-12 and homeschoolers. Digital teaching trunk.
+
+Current UI practice: Chinese women in Idaho box. 
+
 ## Sustainability
 
 *All digital scholarship must engage with the question of sustainability.*
@@ -61,8 +68,12 @@ Not best practice? Met puts 3D model info on thingverse -- only 1 follower, 1 cr
 - Is the data in a transferable, re-usable format?
 
 ### Our sustainability plan: 
-Hosting: 
-Cost: 
+
+Hosting: AACC?
+
+Cost: Hosting, Labor: 3D modeling, maintaining Murkutu (access, etc.). 
+
 Who will maintain project:
+
 How to continue: 
 
