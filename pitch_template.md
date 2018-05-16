@@ -30,6 +30,7 @@ Create 3D models of UI archive materials and provide information needed for prin
 - producing a new set of workflows
 - linking together content in new ways
 
+### Our solution: 
 Create a digital archive with 3D printing information. 3D printing information will have Murkutu protocols, so that there is another level of controlled access with the 3D modelling (for example, a photo that is public access could potentially link to a 3D model file that is community-only). 
 
 ## Environmental scan
@@ -41,7 +42,7 @@ Create a digital archive with 3D printing information. 3D printing information w
 
 *Your pitch should engage with at least 3*
 
-# Our Environmental Scan
+### Our environmental scan: 
 Museums are putting information for creating 3D models on the internet with public access, with varying strategies and results. 
 
 Good practices? Smithsonian incorporates 3D model information into ebook about the content. 
@@ -58,3 +59,5 @@ Not best practice? Met puts 3D model info on thingverse -- only 1 follower, 1 cr
 - What might be the needs in five years for people to continue to use, engage with or build on your project?
 - Is the initial scope realistic?
 - Is the data in a transferable, re-usable format?
+
+### Our sustainability plan: 
