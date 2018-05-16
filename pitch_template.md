@@ -4,7 +4,7 @@
 
 *This is your elevator speech, or your brief abstract that you will use to hook people in whether they be funders, stakeholders or potential collaborators.*
 
-Create 3D models of UI archive materials and provide information needed for printing via Murkutu site. 
+Create 3D models of UI archive materials and provide information needed for printing via Murkutu site. Will function for a template for future collections. 
 
 ## Challenge, Problem or Issue
 
@@ -14,7 +14,7 @@ Create 3D models of UI archive materials and provide information needed for prin
 - What question is your project trying to answer?
 - What issue does your project engage with?
 
-### Our Challenges: 
+### Our challenges: 
 - Limitations of 2D. Digital renderings not as useful for analysis. 
 - Pedagogy: Students have to look at photos -- again, not the best for learning. 
 - Incomplete archives between institutions: can't compare like objects side-by-side, if housed in different places. 
@@ -61,3 +61,8 @@ Not best practice? Met puts 3D model info on thingverse -- only 1 follower, 1 cr
 - Is the data in a transferable, re-usable format?
 
 ### Our sustainability plan: 
+Hosting: 
+Cost: 
+Who will maintain project:
+How to continue: 
+
