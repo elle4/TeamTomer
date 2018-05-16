@@ -1,4 +1,4 @@
-# Pitch template:
+# Pitch template
 
 ## Challenge, Problem or Issue
 
