@@ -1,5 +1,9 @@
 # Pitch template
 
+## Project Description
+
+This is your elevator speech, or your brief abstract that you will use to hook people in whether they be funders, stakeholders or potential collaborators.
+
 ## Challenge, Problem or Issue
 
 Digital scholarship addresses specific needs, challenges, issues or problems.
@@ -26,10 +30,6 @@ Chances are other people have had similar challenges or are tackling similar or 
     Similar projects
 
 Your pitch should engage with at least 3
-
-## Project Description
-
-This is your elevator speech, or your brief abstract that you will use to hook people in whether they be funders, stakeholders or potential collaborators.
 
 ## Sustainability
 
