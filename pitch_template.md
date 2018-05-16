@@ -10,24 +10,25 @@ Create 3D models of UI archive materials and provide information needed for prin
 
 *Digital scholarship addresses specific needs, challenges, issues or problems.*
 
-*- What set of challenges does your project meet?
+- What set of challenges does your project meet?
 - What question is your project trying to answer?
-- What issue does your project engage with?*
+- What issue does your project engage with?
 
 ### Our Challenges: 
 - Limitations of 2D
 - Pedagogy: Students have to look at photos 
 - Incomplete archives 
 - 3D printing is a reality in archiving. Ethics?
+- 3D printing decontextualized from archives, targeted 3D printing enthusiasts, not museum visitors (creating a seperation). 
 
 ## Proposed Solution or Template
 
 *There is no one way to address a set of questions, but there is your way! How will you go about solving the problem or engaging with the question?
 
-*- building a new tool
+- building a new tool
 - creating a different platform
 - producing a new set of workflows
-- linking together content in new ways*
+- linking together content in new ways
 
 
 ## Environmental scan
