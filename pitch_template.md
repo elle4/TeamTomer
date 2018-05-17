@@ -20,6 +20,7 @@
 - Incomplete archives between institutions: can't compare like objects side-by-side, if housed in different places. 
 - 3D printing is a reality in archiving. Ethics?
 - 3D printing decontextualized from archives, targeted 3D printing enthusiasts, not museum visitors (creating a seperation). 
+- public access requires travel 
 
 ## Proposed Solution or Template
 
@@ -29,7 +30,6 @@
 - creating a different platform
 - producing a new set of workflows
 - linking together content in new ways
-- public access requires travel 
 
 ### Our solution: 
 Create a digital archive with 3D printing information. 3D printing information will have Murkutu protocols, so that there is another level of controlled access with the 3D modelling (for example, a photo that is public access could potentially link to a 3D model file that is community-only). 
@@ -56,6 +56,8 @@ Teaching trunks. Books, DVDs, lesson plans. Used by K-12 and homeschoolers. Digi
 
 Current UI practice: Chinese women in Idaho box. 
 
+- Add links to other projects 
+
 ## Sustainability
 
 *All digital scholarship must engage with the question of sustainability.*
@@ -69,9 +71,11 @@ Current UI practice: Chinese women in Idaho box.
 
 ### Our sustainability plan: 
 
-Hosting: AACC?
+Hosting: AACC: Asian American Comparative Collection
 
-Cost: Hosting, Labor: 3D modeling, maintaining Murkutu (access, etc.). 
+Cost: Hosting, 
+
+Labor: 3D modeling, maintaining Murkutu (access, etc.). 
 
 Who will maintain project:
 
